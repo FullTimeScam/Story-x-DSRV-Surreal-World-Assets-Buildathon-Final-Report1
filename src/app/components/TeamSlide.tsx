@@ -43,7 +43,7 @@ export function TeamSlide() {
       {/* Header with Stats */}
       <div className="flex justify-between items-end border-b border-white/10 pb-6">
         <div className="border-l-4 border-yellow-400 pl-8">
-          <h2 className="text-6xl font-bold mb-2">팀 모집 및 프로젝트 현황</h2>
+          <h2 className="text-6xl font-bold mb-2">빌더톤 최종 결과물 및 팀 구성</h2>
           <p className="text-2xl text-white/50 font-light">Builder Teams</p>
         </div>
 
