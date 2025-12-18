@@ -63,7 +63,7 @@ export function CoverSlide() {
             <div className="w-1 h-1 bg-white/30 rounded-full" />
             <div className="flex items-center gap-2">
               <Calendar className="w-5 h-5" />
-              <span>제출일: 2024.12.19</span>
+              <span>제출일: 2025.12.19</span>
             </div>
           </div>
         </div>
