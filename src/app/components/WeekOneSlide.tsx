@@ -1,8 +1,8 @@
 import { ImageWithFallback } from './figma/ImageWithFallback';
 import { Twitter, Eye, Repeat, Heart, Calendar, MessageCircle } from 'lucide-react';
-import amaPostText from "../src/assets/f379286537d497ac124594388166413ef327ad1a.png";
-import amaBanner from "../src/assets/cd9df8d6ed952e87e7f6d1853499b2b72a064420.png";
-import workshopImage from "../src/assets/b63f8c75ad06547a81f286d015ef3a68bbdeb64f.png";
+import amaPostText from "../../assets/f379286537d497ac124594388166413ef327ad1a.png";
+import amaBanner from "../../assets/cd9df8d6ed952e87e7f6d1853499b2b72a064420.png";
+import workshopImage from "../../assets/b63f8c75ad06547a81f286d015ef3a68bbdeb64f.png";
 
 export function WeekOneSlide() {
   return (

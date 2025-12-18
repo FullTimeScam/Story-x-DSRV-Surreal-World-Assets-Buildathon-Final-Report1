@@ -1,7 +1,7 @@
 import { ImageWithFallback } from './figma/ImageWithFallback';
 import { MapPin } from 'lucide-react';
-import posterOne from "../src/assets//79008256ed01d57868f525bfdded583554204713.png";
-import posterTwo from "../src/assets/7fe45e271feaba533f041eef803ed1c7aecd894e.png";
+import posterOne from "../../assets//79008256ed01d57868f525bfdded583554204713.png";
+import posterTwo from "../../assets/7fe45e271feaba533f041eef803ed1c7aecd894e.png";
 
 export function PromotionSlide() {
   return (

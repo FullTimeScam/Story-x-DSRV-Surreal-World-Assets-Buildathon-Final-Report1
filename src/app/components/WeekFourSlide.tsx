@@ -1,8 +1,8 @@
 import { ImageWithFallback } from './figma/ImageWithFallback';
 import { Calendar, Cpu, BookOpen, ExternalLink, FileText, Eye, Repeat, Heart, MessageCircle, Twitter } from 'lucide-react';
-import verifiableAiHeader from "../src/assets/4c3f8187503b800245ffa5457983d687e669c1e0.png";
-import verifiableAiContent from "../src/assets/bd6579d06a32a18d93ab2369209808ee77f1d683.png";
-import phaseTwoImage from "../src/assets/96d40f2b5056e0f210239912c2a5bbc368a4d9f0.png";
+import verifiableAiHeader from "../../assets/4c3f8187503b800245ffa5457983d687e669c1e0.png";
+import verifiableAiContent from "../../assets/bd6579d06a32a18d93ab2369209808ee77f1d683.png";
+import phaseTwoImage from "../../assets/96d40f2b5056e0f210239912c2a5bbc368a4d9f0.png";
 
 export function WeekFourSlide() {
   return (
