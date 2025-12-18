@@ -1,8 +1,8 @@
 import { ImageWithFallback } from './figma/ImageWithFallback';
 import { MapPin, FileText, Calendar, Eye, Repeat, Heart, MessageCircle, Twitter } from 'lucide-react';
-import buildathonWhyImage from "figma:asset/8e52abd40d930f6e64f4fc423732780b740ad84e.png";
-import posterTweet from "figma:asset/18a78ef1ae741d56269bf96d49418e99287d4822.png";
-import offlinePoster from "figma:asset/f75ae9b42a7257671fdbc09af62ca3e92c0e11fa.png";
+import buildathonWhyImage from "../src/assets/8e52abd40d930f6e64f4fc423732780b740ad84e.png";
+import posterTweet from "../src/assets/18a78ef1ae741d56269bf96d49418e99287d4822.png";
+import offlinePoster from "../src/assets/f75ae9b42a7257671fdbc09af62ca3e92c0e11fa.png";
 
 export function WeekThreeSlide() {
   return (

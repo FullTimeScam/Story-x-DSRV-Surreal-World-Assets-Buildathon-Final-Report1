@@ -1,7 +1,7 @@
 import { ImageWithFallback } from './figma/ImageWithFallback';
 import { Calendar, Users, Building2 } from 'lucide-react';
-import storyLogo from "figma:asset/26edc6389f76e9519f5a73ee2e6d59f264131a98.png";
-import dsrvLogo from "figma:asset/8134ee5f59adfc50ac2537d98453a4ec5a84dc97.png";
+import storyLogo from "../src/assets/26edc6389f76e9519f5a73ee2e6d59f264131a98.png";
+import dsrvLogo from "../src/assets/8134ee5f59adfc50ac2537d98453a4ec5a84dc97.png";
 
 export function CoverSlide() {
   return (
